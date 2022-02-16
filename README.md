@@ -29,14 +29,14 @@ Given a functional Express.js API:
 [Repo Link](https://github.com/SepidehAyani/orm_e-commerce) <br>
 
 ## Screenshots
-![Project Preview](assets/overview.mov)
+![Project Preview](assets/demo.png)
 
 ## Demo
-
+#### Demo on Categories
 [![Demo on Categories](assets/demo.png)](assets/demo-categories.mov)
-
+#### Demo on Products
 [![Demo on Products](assets/demo.png)](assets/demo-products.mov)
-
+#### Demo on Tags
 [![Demo on Tags](assets/demo.png)](assets/demo-tags.mov)
 
 ## Instructions
