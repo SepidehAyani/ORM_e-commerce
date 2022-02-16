@@ -9,7 +9,6 @@ so that their company can compete with other e-commerce companies.
 ## Table of Contents 
 1. [About the Project](#About-The-Project)
 1. [Project Links](#Project-Links)
-1. [Screenshots](#Screenshots)
 1. [Demo](#Demo)
 1. [Installation](#Installation)
 1. [Contribution Guidelines](#Contribution-Guidelines)
@@ -27,9 +26,6 @@ Given a functional Express.js API:
 
 ## Project Links
 [Repo Link](https://github.com/SepidehAyani/orm_e-commerce) <br>
-
-## Screenshots
-![Project Preview](assets/demo.png)
 
 ## Demo
 #### Demo on Categories
