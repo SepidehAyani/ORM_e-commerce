@@ -32,7 +32,12 @@ Given a functional Express.js API:
 ![Project Preview](assets/overview.png)
 
 ## Demo
-[![Project demo](assets/demo.png)](assets/demo.mp4)
+
+[![Demo on Categories](assets/demo.png)](assets/demo-categories.mov)
+
+[![Demo on Products](assets/demo.png)](assets/demo-products.mov)
+
+[![Demo on Tags](assets/demo.png)](assets/demo-tags.mov)
 
 ## Instructions
 ```  
@@ -43,6 +48,13 @@ To create tables, run 'source db/schema.sql'.
 Exit the mysql terminal, and run 'npm run seed' to insert data into the tables.
 Run 'npm start' to start your server.
 ```
+Make sure to add a .env file to the root of the app with the following details:
+```
+DB_NAME='ecommerce_db'
+DB_USER='user'
+DB_PW='xxx'
+```
+
 #### Note: follow [this](https://flaviocopes.com/mysql-how-to-install/) to install MySql and setup your own username & password
 
 ## Languages and libraries used in this project:
