@@ -29,7 +29,7 @@ Given a functional Express.js API:
 [Repo Link](https://github.com/SepidehAyani/orm_e-commerce) <br>
 
 ## Screenshots
-![Project Preview](assets/overview.png)
+![Project Preview](assets/overview.mov)
 
 ## Demo
 
