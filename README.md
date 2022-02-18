@@ -28,6 +28,13 @@ Given a functional Express.js API:
 [Repo Link](https://github.com/SepidehAyani/orm_e-commerce) <br>
 
 ## Demo
+#### Demo on the followings:
+##### - connect to a database using Sequelize
+##### - enter schema and seed commands 
+##### - database is created and is seeded with test data
+##### - the server is started and the Sequelize models are synced to the MySQL database
+[![Demo on db and seed](assets/demo.png)](assets/demo-db&seed.mov)
+
 #### Demo on Categories
 [![Demo on Categories](assets/demo.png)](assets/demo-categories.mov)
 #### Demo on Products
